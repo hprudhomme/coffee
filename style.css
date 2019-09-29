@@ -1,0 +1,39 @@
+.jumbotron {
+    height: 700px;
+
+  /* Tu lui donnes une image de background */
+  background-image: url("s2.jpeg");
+
+  /* Centre l'image et la met bien sur tous les écrans */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.navbar {
+    background-color: black;
+    color: #881E17;
+}
+
+/* .article {
+    border: 2px solid black;
+} */
+
+.btn {
+    background-color: #0275d8;
+    border: none;
+}
+
+.btn2 {
+    margin: 0 auto;
+    width: 150px;
+}
+
+.btn:hover {
+    background-color: white;
+    color: #0275d8;
+}
+
+h2 {
+    border-bottom: 2px solid #0275d8;
+}
